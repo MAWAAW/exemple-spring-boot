@@ -37,6 +37,14 @@ public class Exemple {
 	public void setChamp2(String champ2) {
 		this.champ2 = champ2;
 	}
+
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
 	
 	
 	
